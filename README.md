@@ -1,10 +1,10 @@
-# homepage
-Custom browser homepage made by Nathaniel Evan. Inspired by various sources. Made with vanilla HTML-CSS-JS and designed with responsiveness in mind, based on Gruvbox Material colours by [@sainnhe](https://github.com/sainnhe). As seen in [this Reddit post](https://www.reddit.com/r/startpages/comments/wagyek/my_first_custom_startpage_based_on_gruvbox/) (for verification purposes).
+# nordified-homepage
+Nordified version of Nathaniel Evan's custom browser homepage made. Inspired by various sources. Made with vanilla HTML-CSS-JS and designed with responsiveness in mind, originally based on Gruvbox Material colours by [@sainnhe](https://github.com/sainnhe). Nordified by [@Miki200v2](https://github.com/Miki200v2)
 
-Live preview can be accessed [here](https://nathanielevan.github.io/homepage/).
+Live preview can be accessed [here](https://miki200v2.github.io/nordified-homepage/).
 
 Feel free to fork and customise to your needs, or help me add new features or fix my incomprehensible code by submitting a pull request!
 
 ## Demo
 
-https://user-images.githubusercontent.com/9361126/182819354-471c4baf-917e-4255-bc75-37f99c05f3f2.mp4
+No demo yet
