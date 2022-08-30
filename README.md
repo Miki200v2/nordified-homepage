@@ -7,4 +7,4 @@ Feel free to fork and customise to your needs, or help me add new features or fi
 
 ## Demo
 
-No demo yet
+https://user-images.githubusercontent.com/38375126/187528251-9252d622-77ca-4b27-91c7-7a78d85e0ea2.mp4
