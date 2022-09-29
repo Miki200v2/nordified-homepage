@@ -1,5 +1,5 @@
 # nordified-homepage
-Nordified version of Nathaniel Evan's custom browser homepage made. Inspired by various sources. Made with vanilla HTML-CSS-JS and designed with responsiveness in mind, originally based on Gruvbox Material colours by [@sainnhe](https://github.com/sainnhe). Nordified by [@Miki200v2](https://github.com/Miki200v2)
+Nordified version of Nathaniel Evan's custom browser homepage. Inspired by various sources. Made with vanilla HTML-CSS-JS and designed with responsiveness in mind, originally based on Gruvbox Material colours by [@sainnhe](https://github.com/sainnhe). Nordified by [@Miki200v2](https://github.com/Miki200v2)
 
 Live preview can be accessed [here](https://miki200v2.github.io/nordified-homepage/).
 
